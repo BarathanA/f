@@ -1,0 +1,44 @@
+hr{
+  border-style: dotted;
+  border-top-style: none;
+  border-width: 10px;
+  width: 10%;
+  border-color: #F9F9F9;
+}
+body{
+color: #3F4E4Fs;
+font-size: 30px;
+background-color:#CCD6A6;
+text-align: center;
+background-image: url("https://cutewallpaper.org/21/aesthetic-laptop-wallpapers/Pin-by-Domi-Walters-on-W.I.T.C.H-Aesthetic-desktop-.png");
+background-size: 1920px 3670px;
+background-repeat: no-repeat;
+
+}
+h1{
+  color:#FAF4B7;
+  text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+
+}
+h2{
+  text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+
+}
+a:visited{
+ color: #FAF4B7;
+}
+p5{
+  color: #000000;
+font-size: 90%;
+}
+img{
+  border-radius: 50%;
+}
+
+li{
+  list-style-position: inside;
+list-style-type: armenian;
+}
+table{
+text-align: center;
+}
