@@ -42,3 +42,12 @@ list-style-type: armenian;
 table{
 text-align: center;
 }
+.mp3{
+  display:inline;
+}
+.p1{
+  display:inline;
+}
+.fe{
+  color: violet;
+}
